@@ -889,8 +889,7 @@ nodetype.6=Astral
 
 tc.taint_item_poison=A dissolving %s has infected you with Taint
 death.attack.taint=%1$s was corrupted by Taint
-death.attack.taint.player=%1$s
- was corrupted by Taint whilst fighting %2$s
+death.attack.taint.player=%1$s was corrupted by Taint whilst fighting %2$s
 death.attack.tentacle=%1$s was squeezed by %2$s
 death.attack.swarm=%1$s was infested by %2$s
 death.attack.swarm.item=%1$s was infested by %2$s using %3$s
@@ -1246,7 +1245,7 @@ tc.research_text.FOCUSTRADE=This for that
 tc.research_page.FOCUSTRADE.1=You can use this focus to trade blocks in the world with blocks you are carrying.<BR>First, choose the block that will be used as material by sneaking and right clicking. You may have to place a block from your inventory in the world, if one is not readily available, to set the material. Once your material is set, left click on the target block to replace it with the material block type. If you right click on a target without sneaking, you will replace a whole swath of blocks of the same type as the target, provided you have enough material.<BR>The target blocks you transform will replace the material blocks in your inventory in an equal trade. Only blocks with at least one side open to the air will be transformed.
 #
 tc.research_name.FOCUSHELLBAT=Wand Focus: Nine Hells
-tc.research_text.FOCUSHELLBAT=Tiny Terrors
+tc.research_text.FOCUSHELLBAT=Tiny terrors
 tc.research_page.FOCUSHELLBAT.1=Your trips into the Nether have taught you to fear the tiny terrors known as Hellbats. Now, you have discovered a way to summon the little nuisances and send them after your enemies. Excellent.
 #
 tc.research_name.FOCUSPORTABLEHOLE=Wand Focus: Portable Hole
@@ -1254,7 +1253,7 @@ tc.research_text.FOCUSPORTABLEHOLE=Never be without an exit again
 tc.research_page.FOCUSPORTABLEHOLE.1=You have succeeded in using Vis to create extradimensional spaces. Using this focus on a wall or other surface will create an extradimensional passage leading to the other side. This 'hole' only remains open for a few seconds.<BR>Extradimensional holes cannot be created through certain kinds of matter or particularly complex objects.
 #
 tc.research_name.FOCUSPRIMAL=Wand Focus: Primal
-tc.research_text.FOCUSPRIMAL=Raw Magic
+tc.research_text.FOCUSPRIMAL=Raw magic
 tc.research_page.FOCUSPRIMAL.1=What madness possessed you to create this thing? This focus seems wildly dangerous and only a lunatic will attempt to use it anywhere but the most controlled environments.<BR>Granted, the orb of raw primal energy it creates is quite devastating, but its path of travel is erratic at best and downright malicious at worst.<BR>It  does beg further study however: The orb shows some interesting dimensional properties and it exhibits energy patterns you have only seen in wisps and Aura nodes.
 #
 tc.research_name.FOCUSGRAPPLE=Wand Focus: Grappler
