@@ -701,8 +701,7 @@ golem.head.text.smart=This head contains an advanced biothaumic brain, giving th
 golem.head.smart_armored=Armored smart head
 golem.head.text.smart_armored=The smart head enhanced with additional armor and padding.
 golem.head.scout=Perceptive head
-golem.head.text.scout=The basic clockwork head enchanced with improved biothaumic
- eyes. 
+golem.head.text.scout=The basic clockwork head enchanced with improved biothaumic eyes. 
 golem.head.smart_scout=Biothaumic head
 golem.head.text.smart_scout=Using both biothaumic eyes and brain, this head is the pinnacle of the biothaumic art. 
 #
