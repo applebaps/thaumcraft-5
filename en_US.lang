@@ -233,8 +233,7 @@ tile.candle.black.name=Black Tallow Candle
 tile.pedestal.normal.name=Arcane Pedestal
 tile.pedestal.eldritch.name=Eldritch Pedestal
 tile.pedestal.ancient.name=Ancient Pedestal
-tile.nitor.white.name=White
- Nitor
+tile.nitor.white.name=White Nitor
 tile.nitor.orange.name=Orange Nitor
 tile.nitor.magenta.name=Magenta Nitor
 tile.nitor.light_blue.name=Light Blue Nitor
@@ -494,8 +493,7 @@ item.crimson_robe_chest.name=Crimson Cult Robe
 item.crimson_robe_legs.name=Crimson Cult Leggings
 item.crimson_plate_helm.name=Crimson Cult Helm
 item.crimson_plate_chest.name=Crimson Cult Chestplate
-item.crimson_plate_legs.name=Crimson
- Cult Greaves
+item.crimson_plate_legs.name=Crimson Cult Greaves
 item.crimson_praetor_helm.name=Crimson Praetor Helm
 item.crimson_praetor_chest.name=Crimson Praetor Chestplate
 item.crimson_praetor_legs.name=Crimson Praetor Greaves
@@ -1060,8 +1058,7 @@ tc.research_page.RESEARCH.4=Flashing square or round icons represent primary res
 tc.research_page.RESEARCH.5=Section §l3§r will show a number of primal aspects that you have available to you to complete the research.<BR>Section §l5§r will now display a sheet of paper covered in hexagonal tiles with aspect icons around the outer edge.<IMG>thaumcraft:textures/research/research2.png:0:88:255:158:.5</IMG>
 tc.research_page.RESEARCH.6=To complete your research, you simply need to connect and activate all the aspects. You do this by dragging an aspect to a hex adjacent to it that is either composed of the target aspect, or can be combined with another aspect to form the target aspect.<IMG>thaumcraft:textures/research/research3.png:0:0:150:95:.75</IMG>
 tc.research_page.RESEARCH.7=Placing an aspect consumes one research point. If you make a mistake, you can click on the aspect to remove it, but you will not regain the research point.<BR>Should you ever run out of research points, it is best to discard the note and create a new one to get a fresh pool of research points.<BR>To get the compound aspects required to complete most researches, you will need to combine them from their primals. This will be explained a bit later.
-tc.research_page.RESEARCH.8=You continue
- doing this until you have formed a pattern connecting all the starting aspects. The outer aspects need not be connected to all the others, they simply need to form a connected whole.<BR>Once this is done, the research will complete and the research note will turn into a discovery.<LINE>NOTE: Placing and removing aspects from the hex grid consumes ink from your scribing tools. If it runs out, you will not be able to proceed until you refill it.
+tc.research_page.RESEARCH.8=You continue doing this until you have formed a pattern connecting all the starting aspects. The outer aspects need not be connected to all the others, they simply need to form a connected whole.<BR>Once this is done, the research will complete and the research note will turn into a discovery.<LINE>NOTE: Placing and removing aspects from the hex grid consumes ink from your scribing tools. If it runs out, you will not be able to proceed until you refill it.
 tc.research_page.RESEARCH.9=§l§nCombining Aspects§r<BR>Simply click on those aspects you wish to combine, or drag them into the runic circles in area §l4§r. The selected aspects will appear in area §l4§r and, when you have two selected, pressing the purple button will attempt to combine them. If successful, you should see what was gained in the bottom right and it should appear in area §l3§r.<BR>The component aspects are consumed even if the combination did not result in a valid compound aspect.
 tc.research_page.RESEARCH.10=§l§nSecondary Research§r<BR>Hexagonal icons indicate Secondary research. Much like primary research, you just need to click on them. However, instead of gaining a research note, you will simply learn the research directly. Secondary research does not require you to perform the research at the table, but they do cost experience levels to learn.
 tc.research_page.RESEARCH.11=§l§n(2) Exploration§r<BR><BR>While many researches are available from the start, some require knowledge that cannot be learned at a table.  Others are completely hidden until some mystery is uncovered.<BR>You do this by exploration and by examining objects in the world.<BR>The first thing you will need to do is construct a §5Thaumometer§0. By pointing the §5Thaumometer§0 at objects or creatures and pressing the right mouse button, you will scan them. 
@@ -1099,8 +1096,7 @@ tc.research_page.ORE.4=§l§nAmber§r<BR><IMG>thaumcraft:textures/research/resea
 #
 tc.research_name.PLANTS=Plants & Trees
 tc.research_text.PLANTS=Magical vegetation
-tc.research_page.PLANTS.1=§l§nGreatwood Trees§r<BR><IMG>thaumcraft:textures/research/research4.png:128:128:128:128:.6</IMG><BR>These
- large, majestic trees can be found dotted all over the countryside.<BR>Their wood is able to absorb impressive amounts of magic, making it a popular component in the crafting of magical devices.
+tc.research_page.PLANTS.1=§l§nGreatwood Trees§r<BR><IMG>thaumcraft:textures/research/research4.png:128:128:128:128:.6</IMG><BR>These large, majestic trees can be found dotted all over the countryside.<BR>Their wood is able to absorb impressive amounts of magic, making it a popular component in the crafting of magical devices.
 tc.research_page.PLANTS.2=§l§nSilverwood Trees§r<BR><IMG>thaumcraft:textures/research/research4.png:0:128:128:128:.6</IMG><BR>These rare, magical trees are a wondrous sight. Their leaves shimmer with magical energy, and their pale, soft wood is valued for its purifying properties.<BR>The trees' magical nature is such that Pure Nodes often form within their hearts.  This alone makes a silverwood sapling a prize beyond measure.
 tc.research_page.PLANTS.3=§l§nShimmerleaf§r<BR><IMG>thaumcraft:textures/research/research4.png:128:0:128:128:.6</IMG><BR>The strange, glowing flowers only grow in the shadow of Silverwood Trees. They can be harvested and pulped to produce quicksilver.<BR><BR><IMG>thaumcraft:textures/items/quicksilver.png:0:0:255:255:0.0625</IMG>
 tc.research_page.PLANTS.4=§l§nCinderpearl§r<BR><IMG>thaumcraft:textures/research/research5.png:0:0:128:128:.6</IMG><BR>Found only in the hottest of climes, these plants burn with elemental fire. They can be harvested and ground to produce a fine powder akin to that dropped by Blazes.
@@ -1162,8 +1158,7 @@ tc.research_text.AURAPRESERVE=Keeping it safe
 tc.research_page.AURAPRESERVE.1=You are now able to instinctively stop wands and other devices you wear or carry from draining Vis if the local Aura drops too low. This should help prevent the buildup of Flux.
 #
 tc.research_name.AURAMANIP1=Basic Aura Manipulation
-tc.research_text.AURAMANIP1=Let
- the magic flow
+tc.research_text.AURAMANIP1=Let the magic flow
 tc.research_page.AURAMANIP1.1=You have made a few interesting discoveries regarding the Aura and it is high time you start putting that knowledge to use. You have created a totem which pushes Vis away from itself - the Totem of Dispersal.<BR>As the name suggests, it takes Vis near the totem and spreads it over a wider area.<BR>Messing with the Aura is not without risk, however, and the totem has a small chance of converting the Vis into Flux instead of moving it.<BR>The totem requires that crystal shards be placed in its inventory to act as fuel and to determine what type of Vis is affected.  
 tc.research_page.AURAMANIP1.2=Each totem has an inner and outer area in which it operates. By default, the inner area consists of the chunk in which the totem is located, while the outer area consists of the 8 chunks surrounding the inner area.<BR>The Totem of Dispersal moves Vis from its inner area towards the outer area.<LINE>You also know how to craft two different totem poles. Any number from 0 to 5 poles can be placed below a totem, thus modifying the inner and outer areas that that totem affects.
 tc.research_page.AURAMANIP1.3=For example, a Totem of Dispersal with 1 inner and 2 outer poles will draw Vis from the green chunks below and push it towards the blue chunks.<IMG>thaumcraft:textures/research/research3.png:168:0:80:80:1</IMG>   
@@ -1235,8 +1230,7 @@ tc.research_text.FOCUSFIRE=Form meets Function
 tc.research_page.FOCUSFIRE.1=Some careful experimentation has shown you a way to expand the abilities of even the most basic wand.<BR>By combining crystalline Vis shards with quartz crystals and infusing them with magic, you are able to align the crystals into a mystical matrix.<BR>If the proper types and amounts of Vis are focused through this matrix, it will reshape the raw magical energies into something useful, controlled, and geared to a specific task. 
 tc.research_page.FOCUSFIRE.2=Adding a focus to your wand is a simple task.  Press F while holding the wand, and any foci you are carrying will show up in a radial menu, allowing you to choose from any of the ones you are carrying with a simple click.<LINE>Your initial experiments involved the shaping of fire, and the resulting focus proved to be a useful tool.<BR>It is capable of sending forth a cone of elemental fire, burning all in its wake.
 #
-tc.research_name.FOCUSFROST=Wand
- Focus: Frost
+tc.research_name.FOCUSFROST=Wand Focus: Frost
 tc.research_text.FOCUSFROST=Revenge is a dish best served cold
 tc.research_page.FOCUSFROST.1=This focus is capable of hurling chunks of ice.<BR>Care must be taken when aiming, as the ice chunks tend to bounce off of solid objects. This can be used to your advantage, however, as you can bounce the shards around corners, or even hit multiple foes. 
 #
@@ -1305,8 +1299,7 @@ tc.research_page.NODEMAGNET.3=§nWarning!§r<BR><BR>The moment you place the Nod
 #
 tc.research_name.NODESTABLE=Node Stabilizer
 tc.research_text.NODESTABLE=Keeping things in line
-tc.research_page.NODESTABLE.1=Aura Nodes have a tendency to move around and merge, exactly you don't want them to. This device solves that problem.<BR>Simply place it below a Node, and it will become trapped in a mystical bubble and held
- in place. The Node will not be attracted to other Nodes, nor will other Nodes be attracted to it.
+tc.research_page.NODESTABLE.1=Aura Nodes have a tendency to move around and merge, exactly you don't want them to. This device solves that problem.<BR>Simply place it below a Node, and it will become trapped in a mystical bubble and held in place. The Node will not be attracted to other Nodes, nor will other Nodes be attracted to it.
 #
 # Artifice 
 #######################
@@ -1364,8 +1357,7 @@ tc.research_text.INFERNALFURNACE=Hot enough?
 tc.research_page.INFERNALFURNACE.1=By harnessing raw §cIgnis§0 within a furnace crafted from obsidian and netherbrick you have created a highly efficient and fuel free furnace. So efficient in fact, that occasionally it will produce bonus materials in the form of nuggets or other items.<BR>While this is essentially free, it is also very slow unless the furnace gets a steady supply of §cIgnis§0 Vis from the Aura. 
 tc.research_page.INFERNALFURNACE.2=It should also be noted that the occasional bit of Flux escapes into the environment.<BR>Items you wish to smelt needs to be dropped into the top of the furnace and will be spit out the front. The top of the molten heart of the furnace counts as an inventory so you can put items directly into it using a hopper or similar tools.
 #
-tc.research_name.BELLOWS=Arcane
- Bellows
+tc.research_name.BELLOWS=Arcane Bellows
 tc.research_text.BELLOWS=Stoking the flames
 tc.research_page.BELLOWS.1=The Arcane Bellows performs much the same function as its mundane counterpart, the only difference is that it happily pumps away by itself sending forth a stream of never-ending air.<BR>Attaching it to an Infernal Furnace has shown some interesting results. The elemental infused air not only stokes the flames increasing its smelting speed, but causes them to burn much purer, resulting in a reduction of Flux generated and increasing the chance of creating bonus nuggets and other materials when smelting.
 tc.research_page.BELLOWS.2=They can also be attached to furnances or essentia smelteries to increase their speed.<BR>It is also possible to attach them to crucibles to reduce the time it takes for their water to boil.<BR>Bellows can be deactivated by applying a redstone signal.<BR>You are confident more uses will reveal themselves eventually. 
@@ -1416,8 +1408,7 @@ tc.research_page.ARCANEEAR.1=The Arcane Ear is a device that is capable of detec
 #
 tc.research_name.MIRROR=Mirror Magic
 tc.research_text.MIRROR=Through the looking glass
-tc.research_page.MIRROR.1=You are now able to enchant a pair of magical mirrors that act as doorways to the void between the worlds. Anything shoved (or piped) through one mirror will pass through this realm and emerge from the other mirror - even across dimensional
- boundaries.<BR>Unfortunately this realm is extremely hostile to mortal creatures like yourself so using these mirrors to transport living creatures is not yet possible.<BR>To link a pair of these magical mirrors you simply need to place one of them in a desired location. You then right-click with a second
+tc.research_page.MIRROR.1=You are now able to enchant a pair of magical mirrors that act as doorways to the void between the worlds. Anything shoved (or piped) through one mirror will pass through this realm and emerge from the other mirror - even across dimensional boundaries.<BR>Unfortunately this realm is extremely hostile to mortal creatures like yourself so using these mirrors to transport living creatures is not yet possible.<BR>To link a pair of these magical mirrors you simply need to place one of them in a desired location. You then right-click with a second
 tc.research_page.MIRROR.2=mirror on the one you placed, and the pair will become linked. You may then place the second wherever you wish and items thrown into one will be ejected out the other.<BR>Mirrors can only be linked in pairs, so while both are placed in the world and able to transmit items you cannot link them to another mirror. When you pick up a mirror it will remember the last partner it was linked with, allowing you to easily move it without having to relink it. While one of the paired mirrors is picked up, you may easily relink either of them.
 tc.research_page.MIRROR.3=Transporting items through mirrors places stress on the magical Aura. Every now and again this causes Flux to be generated. The more items you transport, the more Flux is generated..
 #
@@ -1480,8 +1471,7 @@ tc.research_name.PRIMALARROW=Primal Arrows
 tc.research_text.PRIMALARROW=Arrows with an elemental bite
 tc.research_page.PRIMALARROW.1=These arrows are each infused with a specific type of primal energy which gives them interesting and destructive properties<BR>§nAir Arrow§r<BR>These arrows crackle with energy. They inflict similar damage to normal arrows, but the magical energy bypasses any kind of armor protection.<BR>§nFire Arrow§r<BR>These arrows inflict pure fire damage and set their targets alight.
 tc.research_page.PRIMALARROW.2=§nWater Arrow§r<BR>These arrows inflict normal damage, but chill your target to the bone, reducing their movement speed.<BR>§nEarth Arrow§r<BR>These arrows have no special property beyond packing a lot more punch than normal arrows.<BR>§nOrder Arrow§r<BR>This arrow does a little less damage than normal, but it bypasses armor and leaves your enemy weakened.<BR>§nEntropy Arrow§r<BR>This arrow does slightly less damage than normal, 
-tc.research_page.PRIMALARROW.3=but inflicts a withering effect on whatever it hits.<LINE>Primal arrows cannot be picked up from the ground and the Infinity enchantment has only a 1 in 3
- chance of preventing a primal arrow from being consumed.
+tc.research_page.PRIMALARROW.3=but inflicts a withering effect on whatever it hits.<LINE>Primal arrows cannot be picked up from the ground and the Infinity enchantment has only a 1 in 3 chance of preventing a primal arrow from being consumed.
 #
 tc.research_name.RUNICARMOR=Runic Shielding
 tc.research_text.RUNICARMOR=Shields up!
@@ -1531,8 +1521,7 @@ tc.research_page.VERDANTHEARTLIFE.2=§nSustainer§r<BR>This infusion enchantment
 tc.research_name.CRUCIBLE=Basic Alchemy
 tc.research_text.CRUCIBLE=Bubble and Boil
 tc.research_page.CRUCIBLE.1=To craft the Crucible, you must simply use your wand on a cauldron placed in the world.<BR>The crucible is an important tool for any thaumaturge. It allows him to render physical objects into their component Essentia and recombine it again as he wishes.<BR>The crucible needs to be placed over a source of constant heat and filled with water. Once the water starts boiling you simply throw any items you wish into the crucible and they will be broken down into their component Essentia.<BR>If you know the proper formula and the mix of essentia within the    
-tc.research_page.CRUCIBLE.2=crucible is correct, you can then
- drop a special item into the crucible known as a Catalyst. The catalyst draws the essentia into itself and transforms into a whole new item that the crucible then ejects.<BR>Any leftover Essentia remains within the crucible for further use, but it is not a good idea to leave essentia within a crucible for too long as it will eventually degrade into Flux.<BR>Crafting also uses some of the water within the crucible and you will eventually need to refill it.  
+tc.research_page.CRUCIBLE.2=crucible is correct, you can then drop a special item into the crucible known as a Catalyst. The catalyst draws the essentia into itself and transforms into a whole new item that the crucible then ejects.<BR>Any leftover Essentia remains within the crucible for further use, but it is not a good idea to leave essentia within a crucible for too long as it will eventually degrade into Flux.<BR>Crafting also uses some of the water within the crucible and you will eventually need to refill it.  
 tc.research_page.CRUCIBLE.3=You can empty a crucible by shift right-clicking on it with a wand. All the essentia is dumped into the atmosphere as Flux... not something you would want to do too often.<LINE>There are some basic alchemical recipes that anyone can perform. See the following pages for their recipes.
 tc.research_page.CRUCIBLE.4=§nBalanced Vis Shards§r<BR><BR>These are normal Vis shards that have been alchemically infused with the five primal elements they do not already possess. This results in a shard of crystal that is perfectly resonating with primal energy.<BR>Smelting a balanced Vis shard in a furnace creates Salis Mundus (see following pages).
 tc.research_page.CRUCIBLE.5=§nSalis Mundus§r<BR><BR>Salis Mundus, or Thaumaturge's Salt as it is more commonly known, is crafted by exposing a balanced Vis shard to high enough heat that it shatters into a fine powder.<BR>Like its mundane counterpart, Thaumaturge's salt adds flavor (metaphorically speaking) to any magical recipe or formula. It is a strong binding agent, able to hold the most disparate of magical elements together.
@@ -1604,8 +1593,7 @@ tc.research_page.DISTILESSENTIA3.1=The Void Metal Smeltery works much like the b
 tc.research_name.IMPROVED_DISTILLATION=Improved Essentia Distillation
 tc.research_text.IMPROVED_DISTILLATION=Essentia Harvesting... Improved
 tc.research_page.IMPROVED_DISTILLATION.1=While smelters can be very fast, they could always be faster - especially the speed at which they break down the essentia slurry into usable essentia.<BR>Each Auxiliary Slurry Pump placed on the side of a smelter acts as a secondary processor, outputting refined essentia to any alembics placed above it.
-tc.research_page.IMPROVED_DISTILLATION.2=You have also discovered a way to manage the Flux generated
- by the smelting process. By running the slurry through a secondary set of essentia filters you are able to separate out the Flux and safely vent it as harmless steam.<BR>The process manages to reduce Flux produced by about a third and additional vents will increase this, though there is diminishing returns. 
+tc.research_page.IMPROVED_DISTILLATION.2=You have also discovered a way to manage the Flux generated by the smelting process. By running the slurry through a secondary set of essentia filters you are able to separate out the Flux and safely vent it as harmless steam.<BR>The process manages to reduce Flux produced by about a third and additional vents will increase this, though there is diminishing returns. 
 #
 tc.research_name.JARLABEL=Warded Jars and Labels
 tc.research_text.JARLABEL=Storing and organizing essentia
@@ -1649,8 +1637,7 @@ tc.research_page.THAUMATORIUM.3=Normally a Thaumatorium can only have one active
 #
 tc.research_name.BATHSALTS=Purifying Bath Salts
 tc.research_text.BATHSALTS=Stress relief for the mind
-tc.research_page.BATHSALTS.1=Warp is a danger for even the most careful of thaumaturges. For those that have done a bit too much dabbling Warp effects are probably more
- than just an annoyance. Purifying Bath Salts help with that.<BR>Simply tossing these salts into water will turn the water into a silvery, purifying liquid that sooths away the stresses of the day and brings temporary relief from the effects of Warp. It should be noted however the more warp a thaumaturge suffers from, the shorter the duration of this protection.<BR>The salts are quite fragile and will soon dissolve if tossed around haphazardly. 
+tc.research_page.BATHSALTS.1=Warp is a danger for even the most careful of thaumaturges. For those that have done a bit too much dabbling Warp effects are probably more than just an annoyance. Purifying Bath Salts help with that.<BR>Simply tossing these salts into water will turn the water into a silvery, purifying liquid that sooths away the stresses of the day and brings temporary relief from the effects of Warp. It should be noted however the more warp a thaumaturge suffers from, the shorter the duration of this protection.<BR>The salts are quite fragile and will soon dissolve if tossed around haphazardly. 
 #
 tc.research_name.LIQUIDDEATH=Liquid Death
 tc.research_text.LIQUIDDEATH=For external use only
@@ -1717,8 +1704,7 @@ tc.research_page.ARCANEBORE.3=The bore can be powered with §8Perditio§0 essent
 tc.research_name.TRAVELTRUNK=Traveling Trunk
 tc.research_text.TRAVELTRUNK=Mobile Luggage
 tc.research_page.TRAVELTRUNK.1=An extension of your golemancy research has led to a useful companion for any thaumaturge on the go: The Traveling Trunk.<BR>This wooden chest will happily hop after its master, always ready to provide a convenient storage space for anything you pick up.<BR>The traveling trunk is tough and can take a significant amount of beating. It is highly resistant to fire and cannot be harmed by falling.<BR>The trunk can follow its master everywhere - even distant dimensions. Should you wish it to stay put however, there is a convenient  button located in its interface
-tc.research_page.TRAVELTRUNK.2=which will make it remain in its current position.<BR>The traveling trunk slowly heals itself over time, but you can also feed it all manner of food to speed up this process.<BR>Like normal golems, the trunk can be picked up by left-clicking with a golemancer's bell. It will drop all items in its inventory of you do so. Shift-clicking
- will also cause it to drop any upgrades you have applied to it with the normal loss chance.<BR>It can accept a single upgrade like normal golems, but they grant unique abilities to the trunk. See the following pages for details as you discover the relevant upgrades.
+tc.research_page.TRAVELTRUNK.2=which will make it remain in its current position.<BR>The traveling trunk slowly heals itself over time, but you can also feed it all manner of food to speed up this process.<BR>Like normal golems, the trunk can be picked up by left-clicking with a golemancer's bell. It will drop all items in its inventory of you do so. Shift-clicking will also cause it to drop any upgrades you have applied to it with the normal loss chance.<BR>It can accept a single upgrade like normal golems, but they grant unique abilities to the trunk. See the following pages for details as you discover the relevant upgrades.
 tc.research_page.TRAVELTRUNK.UAI=§nGolem Upgrade: Air§r<BR>With this upgrade installed the traveling trunk will move faster.
 tc.research_page.TRAVELTRUNK.UEA=§nGolem Upgrade: Earth§r<BR>With this upgrade installed the traveling trunk be able to carry more items and will gain an additional row in its inventory.
 tc.research_page.TRAVELTRUNK.UFI=§nGolem Upgrade: Fire§r<BR>With this upgrade installed the traveling trunk will defend its master when he is attacked.
@@ -1764,8 +1750,7 @@ tc.research_page.FOCUSTURRET.1=With your discovery of advanced artificial minds 
 tc.research_name.SEALCOLLECT=Control Seal: Collect 
 tc.research_text.SEALCOLLECT=Picking up what you are putting down
 tc.research_page.SEALCOLLECT.1=This seal will constantly check an area you define for dropped items. If items are found it will instruct any nearby golems to pick up those items.<BR>You can define the exact dimensions of the area as well as filter out certain items using a white- or blacklist.
-tc.research_page.SEALCOLLECT.2=You can now also craft an advanced version of the seal that will allow you to filter more items at once and give you greater control over how the
- items are filtered, though golems need to be much smarter to perform tasks created by this seal.<BR>You can choose to have the seal ignore NBT or damage values when filtering items, use the ore dictionary, or to have it filter items from the same mod as those in the filter.  
+tc.research_page.SEALCOLLECT.2=You can now also craft an advanced version of the seal that will allow you to filter more items at once and give you greater control over how the items are filtered, though golems need to be much smarter to perform tasks created by this seal.<BR>You can choose to have the seal ignore NBT or damage values when filtering items, use the ore dictionary, or to have it filter items from the same mod as those in the filter.  
 #
 tc.research_name.SEALSTORE=Control Seal: Store
 tc.research_text.SEALSTORE=Putting away your mess
@@ -1840,8 +1825,7 @@ tc.research_name.ELDRITCHMINOR=Eldritch Epiphany
 tc.research_text.ELDRITCHMINOR=First steps into the unknown
 tc.research_page.ELDRITCHMINOR.1=It has suddenly become clear to you. Where others see chaos, you occasionally catch a glimpse of a pattern... a very strange and disturbing pattern. Something stirs in the darkest corners of the universe.<BR>You have tried to explain it to others, but received only strange looks in return. No matter, you will show them someday.<BR>You will show them all.
 #
-tc.research_name.ELDRITCHMAJOR=Eldritch
- Revelation
+tc.research_name.ELDRITCHMAJOR=Eldritch Revelation
 tc.research_text.ELDRITCHMAJOR=I have seen beyond the bounds of infinity
 tc.research_page.ELDRITCHMAJOR.1=A veil has been lifted - a door opened in my mind.<BR> When I look through I see wonders. No, not wonders. §mWhat I see is§r<BR>§oWhat I see is I see i see I sEee i§r<IMG>thaumcraft:textures/research/eldritchajor1.png:0:255:255:255:.5</IMG>
 tc.research_page.ELDRITCHMAJOR.2=<IMG>thaumcraft:textures/research/eldritchajor2.png:0:255:255:255:.5</IMG><BR><BR>Who wrote this?
